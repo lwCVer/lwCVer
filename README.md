@@ -17,8 +17,6 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 
 ## GitHub Star History
 
-### Total Stars: 🚀 **<!-- TOTAL_STARS -->**  <!-- 总 Star 数会自动更新 -->
-
 [![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/RFD,lwCVer/DecoupleNet,lwCVer/LWGANet&type=Date)](https://star-history.com/#lwCVer/RFD&lwCVer/DecoupleNet&lwCVer/LWGANet&Date)
 
 
