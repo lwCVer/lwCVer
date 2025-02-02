@@ -15,6 +15,15 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 | LWGANet  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal backbone network for RS visual tasks|
 
 
+  
+## Co-author
+
+| Name | Publication | Year | Link | Code | Description |
+|:-------|:-------:|-------:|:-------:|:-------:|:-------:|
+| ASSGCN  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10574888) | [code](https://github.com/lwCVer) | RS change detection| 
+
+
+
 ## GitHub Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/LWGANet,lwCVer/RFD,lwCVer/DecoupleNet&type=Date)](https://star-history.com/#lwCVer/LWGANet&lwCVer/RFD&lwCVer/DecoupleNet&Date)
