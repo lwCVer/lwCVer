@@ -2,7 +2,7 @@ name: Update Total Stars
 
 on:
   schedule:
-    - cron: '*/1 * * * *'  # 每天午夜运行
+    - cron: '*/30 * * * *'  # 每天午夜运行
   workflow_dispatch:
 
 jobs:
