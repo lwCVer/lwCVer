@@ -5,12 +5,23 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 <p>
 <a href="https://github.com/lwCVer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lwCVer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wei Lu's github stats" />
 </p>
+  
+## Main Projects
+
+| Name | Publication | Year | Link | Code | Description |
+|:-------|:-------:|-------:|:-------:|:-------:|:-------:|
+| RFD  |  TGRS  |  2023 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
+| DecoupleNet  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10685518) | [code](https://github.com/lwCVer/DecoupleNet) | A universal backbone network for RS visual tasks| 
+| LWGANet  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal backbone network for RS visual tasks|
+
 
 ## GitHub Star History
 
 ### Total Stars: 🚀 **<!-- TOTAL_STARS -->**  <!-- 总 Star 数会自动更新 -->
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/RFD,lwCVer/DecoupleNet,lwCVer/LWGANet&type=Date)](https://star-history.com/#lwCVer/RFD&lwCVer/DecoupleNet&lwCVer/LWGANet&Date)
+
+
 
 ## Tools
 <p align="left">
@@ -27,11 +38,3 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
   <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>
-
-## Main Projects
-
-| Name | Publication | Year | Link | Code | Description |
-|:-------|:-------:|-------:|:-------:|:-------:|:-------:|
-| RFD  |  TGRS  |  2023 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
-| DecoupleNet  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10685518) | [code](https://github.com/lwCVer/DecoupleNet) | A universal backbone network for RS visual tasks| 
-| LWGANet  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal backbone network for RS visual tasks|
