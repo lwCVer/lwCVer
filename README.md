@@ -23,7 +23,7 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>
 
-## Main Project
+## Main Projects
 
 | Name | Publication | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
