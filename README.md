@@ -25,9 +25,9 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 
 ## Main Project
 
-| Name | Publication | Year | Link | Code |
-|:-------|:-------:|-------:|:-------:|:-------:|
-| RFD  |  TGRS  |  2023 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) |
-| DecoupleNet  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10685518) | [code](https://github.com/lwCVer/DecoupleNet) |
-| LWGANet  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) |
+| Name | Publication | Year | Link | Code | Explanation |
+|:-------|:-------:|-------:|:-------:|:-------:|:-------:|
+| RFD  |  TGRS  |  2023 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
+| DecoupleNet  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10685518) | [code](https://github.com/lwCVer/DecoupleNet) | A universal backbone network for RS visual tasks| 
+| LWGANet  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal backbone network for RS visual tasks| 
 
