@@ -20,7 +20,11 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 
 | Name | Publication | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
+<<<<<<< HEAD
 | ASSGCN  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS change detection| 
+=======
+| ASGCN  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS change detection| 
+>>>>>>> 3db7268f04b2f1d2512bc6583f01169864c79e5c
 
 
 
@@ -29,8 +33,11 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 [![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/LWGANet,lwCVer/RFD,lwCVer/DecoupleNet&type=Date)](https://star-history.com/#lwCVer/LWGANet&lwCVer/RFD&lwCVer/DecoupleNet&Date)
 
 
+<<<<<<< HEAD
 111111111111111111111111111111111
 
+=======
+>>>>>>> 3db7268f04b2f1d2512bc6583f01169864c79e5c
 
 ## Tools
 <p align="left">
