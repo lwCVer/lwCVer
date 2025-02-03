@@ -18,7 +18,7 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
   
 ## Co-author
 
-| Name | Publication | Year | Link | Code | Description |
+| Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
 | ASGCN  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS change detection| 
 
