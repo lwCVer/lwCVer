@@ -10,9 +10,9 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 
 | Name | Publication | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
-| RFD  |  TGRS  |  2023 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
-| DecoupleNet  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10685518) | [code](https://github.com/lwCVer/DecoupleNet) | A universal backbone network for RS visual tasks| 
 | LWGANet  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal backbone network for RS visual tasks|
+| DecoupleNet  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10685518) | [code](https://github.com/lwCVer/DecoupleNet) | A universal backbone network for RS visual tasks| 
+| RFD  |  TGRS  |  2023 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
 
 
   
@@ -22,11 +22,10 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
 | ASGCN  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS change detection| 
 
-1111111111111
 
 ## GitHub Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/LWGANet,lwCVer/RFD,lwCVer/DecoupleNet&type=Date)](https://star-history.com/#lwCVer/LWGANet&lwCVer/RFD&lwCVer/DecoupleNet&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/LWGANet,lwCVer/DecoupleNet,lwCVer/RFD&type=Date)](https://star-history.com/#lwCVer/LWGANet&lwCVer/RFD&lwCVer/DecoupleNet&Date)
 
 
 
