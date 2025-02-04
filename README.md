@@ -3,7 +3,7 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 -->
 
 <p>
-<a href="https://github.com/lwCVer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lwCVer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wei Lu's github stats" />
+<a href="https://github.com/lwCVer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lwCVer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="lwCVer's github stats" />
 </p>
   
 ## Main Projects
