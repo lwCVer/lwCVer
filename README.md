@@ -9,6 +9,9 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 
 ## Main Projects
 <details>
+  <summary>
+  <font size="+0">details</font>
+  </summary>
 
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
