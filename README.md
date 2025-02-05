@@ -10,7 +10,7 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 ## Main Projects
 <details>
   <summary>
-  <font size="+0">details</font>
+  <font>details</font>
   </summary>
 
 | Name | Pub. | Year | Link | Code | Description |
@@ -20,10 +20,10 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 | RFD  |  TGRS  |  2023 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
 </details>
 
-
+## Co-author
 <details>
   <summary>
-  <font size="+3">Co-author</font>
+  <font></font>
   </summary>
 
 | Name | Pub. | Year | Link | Code | Description |
