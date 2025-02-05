@@ -6,28 +6,42 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 <a href="https://github.com/lwCVer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lwCVer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="lwCVer's github stats" />
 </p>
   
-## Main Projects
+
+---
+
+<details>
+  <summary>
+  <font size="+2">Main Projects</font>
+  </summary>
 
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
 | LWGANet  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal backbone network for RS visual tasks|
 | DecoupleNet  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10685518) | [code](https://github.com/lwCVer/DecoupleNet) | A universal backbone network for RS visual tasks| 
 | RFD  |  TGRS  |  2023 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
+</details>
 
+---
 
-  
-## Co-author
+<details>
+  <summary>
+  <font size="+2">Co-author</font>
+  </summary>
 
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
 | ASGCN  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS change detection| 
 
+</details>
+
+---
 
 ## GitHub Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/LWGANet,lwCVer/DecoupleNet,lwCVer/RFD&type=Date)](https://star-history.com/#lwCVer/LWGANet&lwCVer/RFD&lwCVer/DecoupleNet&Date)
 
 
+---
 
 ## Tools
 <p align="left">
