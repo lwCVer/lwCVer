@@ -1,3 +1,22 @@
+# Hi there, I'm lwCVer! 👋
+
+Welcome to my GitHub profile! Here's a bit more about me:
+
+## 🚀 About Me
+
+中文版：
+- 🛰️ 研究领域 | 遥感技术与无人机应用，专注于提升空域视觉智能
+- 🤝 协作方向 | 积极参与开源项目合作与算法优化
+- 💻 技术交流 | 欢迎探讨Python/PyTorch在工程实践中的解决方案
+- 📧 邮箱地址 | [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com)  
+
+
+English Version:
+- 🛰️ Research Focus | Remote Sensing & UAV Applications | Advancing Aerial Visual Intelligence
+- 🤝 Collaboration | Actively Contributing to Open-Source Projects & Algorithm Optimization
+- 💻 Tech Exchange | Open for Python/Pytorch Engineering Solutions Discussion
+- 📧 Email Address | [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com)  
+
 <!-- 
 Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 -->
@@ -34,14 +53,13 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 
 
 
-## GitHub Star History
+## ⭐ GitHub Star History
 
-## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/LWGANet,lwCVer/DecoupleNet,lwCVer/RFD&type=Date)](https://star-history.com/#lwCVer/LWGANet&lwCVer/DecoupleNet&lwCVer/RFD&Date)
 ---
 
-## Tools
+## 🛠️ Technologies & Tools
 <p align="left">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
   <img alt="cmake" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" >
@@ -55,3 +73,5 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
   <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>
+
+Thanks for visiting my profile! 😊
