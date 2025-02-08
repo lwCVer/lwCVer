@@ -55,7 +55,20 @@ English Version:
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/LWGANet,lwCVer/DecoupleNet,lwCVer/RFD&type=Date)](https://star-history.com/#lwCVer/LWGANet&lwCVer/DecoupleNet&lwCVer/RFD&Date)
+
 ---
+
+
+## 💬 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi! I'm always open to new opportunities and connections. 
+
+Email: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com)  
+
+
+
+Thanks for visiting my profile! Have a great day! 😊
+
 
 ## 🛠️ Technologies & Tools
 <p align="left">
@@ -73,13 +86,3 @@ English Version:
 </p>
 
 ---
-
-## 💬 Let's Connect!
-
-Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi! I'm always open to new opportunities and connections. 
-
-Email: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com)  
-
-
-
-Thanks for visiting my profile! Have a great day! 😊
