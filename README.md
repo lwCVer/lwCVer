@@ -43,20 +43,20 @@ English Version:
 </details>
 
 
+---
 
 ## 📈 Project Stats
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/LWGANet,lwCVer/DecoupleNet,lwCVer/RFD&type=Date)](https://star-history.com/#lwCVer/LWGANet&lwCVer/DecoupleNet&lwCVer/RFD&Date)
 
----
-
----
 
 ## ⭐ GitHub Star History
 
 ![lwCVer's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwCVer&show_icons=true&theme=radical)
 
+
+---
 
 
 ## 💬 Let's Connect!
