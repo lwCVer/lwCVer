@@ -17,14 +17,11 @@ English Version:
 - 💻 Tech Exchange | Open for Python/Pytorch Engineering Solutions Discussion
 - 📧 Email Address | [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com)  
 
-<!-- 
-Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
--->
 
-<p>
-<a href="https://github.com/lwCVer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lwCVer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="lwCVer's github stats" />
-</p>
-  
+## ⭐ GitHub Star History
+
+![lwCVer's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwCVer&show_icons=true&theme=radical)
+
 
 ## Main Projects
 <details>
@@ -53,7 +50,7 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
 
 
 
-## ⭐ GitHub Star History
+## 📈 Project Stats
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/LWGANet,lwCVer/DecoupleNet,lwCVer/RFD&type=Date)](https://star-history.com/#lwCVer/LWGANet&lwCVer/DecoupleNet&lwCVer/RFD&Date)
@@ -74,4 +71,8 @@ Here is lwCVer <a href="https://lwCVer.github.io/"> Personal Information </a>
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>
 
-Thanks for visiting my profile! 😊
+## 💬 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi! I'm always open to new opportunities and connections.
+
+Thanks for visiting my profile! Have a great day! 😊
