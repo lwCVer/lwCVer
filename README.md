@@ -69,6 +69,7 @@ Email: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com)
 
 Thanks for visiting my profile! Have a great day! 😊
 
+---
 
 ## 🛠️ Technologies & Tools
 <p align="left">
@@ -84,5 +85,3 @@ Thanks for visiting my profile! Have a great day! 😊
   <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>
-
----
