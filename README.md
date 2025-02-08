@@ -17,13 +17,6 @@ English Version:
 - 💻 Tech Exchange | Open for Python/Pytorch Engineering Solutions Discussion
 - 📧 Email Address | [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com)  
 
----
-
-## ⭐ GitHub Star History
-
-![lwCVer's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwCVer&show_icons=true&theme=radical)
-
-
 ## Main Projects
 <details>
   <summary>
@@ -57,6 +50,13 @@ English Version:
 [![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/LWGANet,lwCVer/DecoupleNet,lwCVer/RFD&type=Date)](https://star-history.com/#lwCVer/LWGANet&lwCVer/DecoupleNet&lwCVer/RFD&Date)
 
 ---
+
+---
+
+## ⭐ GitHub Star History
+
+![lwCVer's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwCVer&show_icons=true&theme=radical)
+
 
 
 ## 💬 Let's Connect!
