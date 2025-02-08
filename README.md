@@ -17,6 +17,7 @@ English Version:
 - 💻 Tech Exchange | Open for Python/Pytorch Engineering Solutions Discussion
 - 📧 Email Address | [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com)  
 
+---
 
 ## ⭐ GitHub Star History
 
@@ -71,8 +72,14 @@ English Version:
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>
 
+---
+
 ## 💬 Let's Connect!
 
-Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi! I'm always open to new opportunities and connections.
+Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi! I'm always open to new opportunities and connections. 
+
+Email: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com)  
+
+
 
 Thanks for visiting my profile! Have a great day! 😊
