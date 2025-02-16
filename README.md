@@ -44,7 +44,8 @@ English Version:
 
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
-| ASGCN  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS change detection| 
+| DSFF-Net | Neurocomputing | 2025 | [paper](https) | None | A lightweight network for RS object detection | 
+| ASGCN  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS change detection | 
 
 </details>
 
