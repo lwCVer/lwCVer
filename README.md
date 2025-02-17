@@ -44,7 +44,7 @@ English Version:
 
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
-| DSFF-Net | Neurocomputing | 2025 | [paper](https) | None | A lightweight network for RS object detection | 
+| DSFF-Net | Neurocomputing | 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231225003972?via%3Dihub) | None | A lightweight network for RS object detection | 
 | ASGCN  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS change detection | 
 
 </details>
