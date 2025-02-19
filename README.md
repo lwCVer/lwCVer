@@ -26,6 +26,7 @@ English Version:
   </summary>
 -->
 
+
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
 | LWGANet  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal lightweight backbone network for RS visual tasks|
