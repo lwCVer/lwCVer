@@ -29,6 +29,7 @@ English Version:
 
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
+| RRSHID  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2503.17966) | [dataset](https://github.com/lwCVer/RRSHID) | A real-world remote sensing image dehazing dataset|
 | LEGNet  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2503.14012) | [code](https://github.com/lwCVer/LEGNet) | A universal lightweight backbone network for RS object detect tasks|
 | LWGANet  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal lightweight backbone network for RS visual tasks|
 | DecoupleNet  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10685518) | [code](https://github.com/lwCVer/DecoupleNet) | A universal lightweight backbone network for RS visual tasks| 
@@ -39,18 +40,22 @@ English Version:
   -->
 
 ## Co-author Projects
+<!-- 
 <details>
   <summary>
   <font>details</font>
   </summary>
+-->
 
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
 | DSFF-Net | Neurocomputing | 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231225003972?via%3Dihub) | None | A lightweight network for RS object detection | 
 | ASGCN  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS change detection | 
 
-</details>
 
+<!-- 
+</details>
+  -->
 
 ---
 
