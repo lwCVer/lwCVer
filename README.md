@@ -51,8 +51,8 @@ English Version:
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
 | MADSNet | TGRS | 2025.06 | [paper](https://ieeexplore.ieee.org/document/11021615) | [code](https://github.com/Talent02/MADSNet) | RS visual task for Road extraction | 
 | MADSNet | TGRS | 2025.06 | [paper](https://ieeexplore.ieee.org/document/11021615) | [code](https://github.com/Talent02/MADSNet) | RS visual task for Road extraction | 
-| RB-SCD | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.13212) | [code](https://github.com/DaGuangDaGuang/RB-SCD) | A new benchmark for semantic change detection of roads and bridges in traffic scenes | 
-| M4-SAR | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.10931) | [code](https://github.com/wchao0601/M4-SAR) | A multi-source dataset and benchmark for optical-SAR fusion object detection | 
+| RB-SCD | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.13212) | [code](https://github.com/DaGuangDaGuang/RB-SCD) | A new benchmark for semantic change detection of roads and bridges | 
+| M4-SAR | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.10931) | [code](https://github.com/wchao0601/M4-SAR) | Optical-SAR fusion object detection: dataset and benchmark | 
 | ASGCN  |  TGRS  |  2024.06 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS visual task for change detection | 
 
 
