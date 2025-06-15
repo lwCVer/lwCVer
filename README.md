@@ -50,7 +50,7 @@ English Version:
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
 | MADSNet | TGRS | 2025.06 | [paper](https://ieeexplore.ieee.org/document/11021615) | [code](https://github.com/Talent02/MADSNet) | RS visual task for road extraction | 
-| RB-SCD | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.13212) | [code](https://github.com/DaGuangDaGuang/RB-SCD) | Roads-bridges semantic change detection: dataset and benchmark  | 
+| RB-SCD | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.13212) | [code](https://github.com/DaGuangDaGuang/RB-SCD) | Roads and bridges semantic change detection dataset | 
 | M4-SAR | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.10931) | [code](https://github.com/wchao0601/M4-SAR) | Optical-SAR fusion object detection: dataset and benchmark | 
 | DSFF-Net | Neurocomputing | 2025.05 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231225003972?via%3Dihub) | None | A lightweight network for RS object detection | 
 | ASGCN  |  TGRS  |  2024.06 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS visual task for change detection | 
