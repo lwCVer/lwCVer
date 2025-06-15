@@ -29,11 +29,11 @@ English Version:
 
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
-| RRSHID  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2503.17966) | [dataset](https://github.com/lwCVer/RRSHID) | A real-world remote sensing image dehazing dataset|
-| LEGNet  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2503.14012) | [code](https://github.com/lwCVer/LEGNet) | A universal lightweight backbone network for RS object detect tasks|
-| LWGANet  |  arXiv  |  2025 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal lightweight backbone network for RS visual tasks|
-| DecoupleNet  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10685518) | [code](https://github.com/lwCVer/DecoupleNet) | A universal lightweight backbone network for RS visual tasks| 
-| RFD  |  TGRS  |  2023 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
+| RRSHID  |  arXiv  |  2025.03 | [paper](https://arxiv.org/abs/2503.17966) | [dataset](https://github.com/lwCVer/RRSHID) | A real-world remote sensing image dehazing dataset|
+| LEGNet  |  arXiv  |  2025.03 | [paper](https://arxiv.org/abs/2503.14012) | [code](https://github.com/lwCVer/LEGNet) | A universal lightweight backbone network for RS object detect tasks|
+| LWGANet  |  arXiv  |  2025.01 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal lightweight backbone network for RS visual tasks|
+| DecoupleNet  |  TGRS  |  2024.10 | [paper](https://ieeexplore.ieee.org/document/10685518) | [code](https://github.com/lwCVer/DecoupleNet) | A universal lightweight backbone network for RS visual tasks| 
+| RFD  |  TGRS  |  2023.06 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
 
 <!-- 
 </details>
@@ -49,8 +49,11 @@ English Version:
 
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
-| DSFF-Net | Neurocomputing | 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231225003972?via%3Dihub) | None | A lightweight network for RS object detection | 
-| ASGCN  |  TGRS  |  2024 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS change detection | 
+| MADSNet | TGRS | 2025.06 | [paper](https://ieeexplore.ieee.org/document/11021615) | [code](https://github.com/Talent02/MADSNet) | RS visual task for Road extraction | 
+| MADSNet | TGRS | 2025.06 | [paper](https://ieeexplore.ieee.org/document/11021615) | [code](https://github.com/Talent02/MADSNet) | RS visual task for Road extraction | 
+| RB-SCD | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.13212) | [code](https://github.com/DaGuangDaGuang/RB-SCD) | A new benchmark for semantic change detection of roads and bridges in traffic scenes | 
+| M4-SAR | arXiv | 2025.05 | [paper](https://arxiv.org/abs/2505.10931) | [code](https://github.com/wchao0601/M4-SAR) | A multi-source dataset and benchmark for optical-SAR fusion object detection | 
+| ASGCN  |  TGRS  |  2024.06 | [paper](https://ieeexplore.ieee.org/document/10574888) | None | RS visual task for change detection | 
 
 
 <!-- 
