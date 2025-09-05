@@ -29,6 +29,7 @@ English Version:
 
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
+| U3LIE  |  arXiv  |  2025.09 | [arXiv](https://arxiv.org/abs/2509.01373) | [code](https://github.com/lwCVer/U3D_Toolkit) | Unsupervised Ultra-High-Resolution UAV Low-Light Image Enhancement: A Benchmark, Metric and Framework|
 | LEGNet  |  ICCVW  |  2025.07 | [arXiv](https://arxiv.org/abs/2503.14012) | [code](https://github.com/lwCVer/LEGNet) | A universal lightweight backbone network for RS object detect|
 | RRSHID  |  TGRS  |  2025.06 | [arXiv](https://arxiv.org/abs/2503.17966) | [dataset](https://github.com/lwCVer/RRSHID) | A real-world remote sensing image dehazing dataset|
 | LWGANet  |  arXiv  |  2025.01 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal lightweight backbone network for RS visual tasks|
