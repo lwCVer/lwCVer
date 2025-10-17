@@ -67,11 +67,6 @@ English Version:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=lwCVer/LWGANet,lwCVer/DecoupleNet,lwCVer/RFD,lwCVer/LEGNet&type=Date)](https://www.star-history.com/#lwCVer/LWGANet&lwCVer/DecoupleNet&lwCVer/RFD&lwCVer/LEGNet&Date)
 
-## ⭐ GitHub Star History
-
-![lwCVer's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwCVer&show_icons=true&theme=radical)
-
-
 ---
 
 
