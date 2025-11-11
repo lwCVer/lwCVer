@@ -29,9 +29,10 @@ English Version:
 
 | Name | Pub. | Year | Link | Code | Description |
 |:-------|:-------:|-------:|:-------:|:-------:|:-------:|
+| UnravelNet  |  ISPRS  |  2026.01 | [paper](https://doi.org/10.1016/j.isprsjprs.2025.11.002) | [code](https://github.com/lwCVer/UnravelNet) | A backbone for enhanced multi-scale and low-quality feature extraction in remote sensing object detection|
 | LWGANet  |  AAAI (Oral)  |  2026 | [paper](https://arxiv.org/abs/2501.10040) | [code](https://github.com/lwCVer/LWGANet) | A universal lightweight backbone network for RS visual tasks|
 | U3LIE  |  arXiv  |  2025.09 | [arXiv](https://arxiv.org/abs/2509.01373) | [code](https://github.com/lwCVer/U3D_Toolkit) | Unsupervised Ultra-High-Resolution UAV Low-Light Image Enhancement: A Benchmark, Metric and Framework|
-| LEGNet  |  ICCVW  |  2025.07 | [arXiv](https://arxiv.org/abs/2503.14012) | [code](https://github.com/lwCVer/LEGNet) | A universal lightweight backbone network for RS object detect|
+| LEGNet  |  ICCVW  |  2025 | [arXiv](https://arxiv.org/abs/2503.14012) | [code](https://github.com/lwCVer/LEGNet) | A universal lightweight backbone network for RS object detect|
 | RRSHID  |  TGRS  |  2025.06 | [arXiv](https://arxiv.org/abs/2503.17966) | [dataset](https://github.com/lwCVer/RRSHID) | A real-world remote sensing image dehazing dataset|
 | DecoupleNet  |  TGRS  |  2024.10 | [paper](https://ieeexplore.ieee.org/document/10685518) | [code](https://github.com/lwCVer/DecoupleNet) | A universal lightweight backbone network for RS visual tasks| 
 | RFD  |  TGRS  |  2023.06 | [paper](https://ieeexplore.ieee.org/document/10142024) | [code](https://github.com/lwCVer/RFD) | A universal downsampling module for RS visual tasks| 
