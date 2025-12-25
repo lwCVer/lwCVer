@@ -8,14 +8,14 @@ Welcome to my GitHub profile! Here's a bit more about me:
 - 🛰️ 研究领域 | 遥感技术与无人机应用，专注于提升空域视觉智能
 - 🤝 协作方向 | 积极参与开源项目合作与算法优化
 - 💻 技术交流 | 欢迎探讨Python/PyTorch在工程实践中的解决方案
-- 📧 联系方式 | 邮箱地址: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); 微信: lw2858191255
+- 📧 联系方式 | 邮箱地址: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); 微信: luwei_ahu
 
 
 English Version:
 - 🛰️ Research Focus | Remote Sensing & UAV Applications | Advancing Aerial Visual Intelligence
 - 🤝 Collaboration | Actively Contributing to Open-Source Projects & Algorithm Optimization
 - 💻 Tech Exchange | Open for Python/Pytorch Engineering Solutions Discussion
-- 📧 Contacts | Email dddress: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); WeChat: lw2858191255
+- 📧 Contacts | Email dddress: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); WeChat: luwei_ahu
 
 ## Main Projects
 
