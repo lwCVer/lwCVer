@@ -75,7 +75,7 @@ English Version:
 
 Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi! I'm always open to new opportunities and connections. 
 
-Email: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); WeChat: lw2858191255.
+Email: [luwei_ahu@qq.com](mailto:luwei_ahu@qq.com); WeChat: luwei_ahu.
 
 Thanks for visiting my profile! Have a great day! 😊
 
